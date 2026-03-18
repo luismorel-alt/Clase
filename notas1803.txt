@@ -1,0 +1,17 @@
+https://code.visualstudio.com/download
+instalado 18/93
+----------------------------------------------------------
+https://github.com/manuelfernandezdg/86795-apunte
+---------------------------------------------------------------
+https://github.com/
+instalado 18/93
+nos permite guardas las versiones de nuestros codigos
+commint (no sobre escribimos) historia
+
+git en forma local / usar github
+------------------------------------------------------------------------------
+https://manuelfernandezdg.github.io/86795-apunte/index.html
+--------------------------------------------------------------
+
+abrir notas en la presentacion
+con crtl+alt+c podes abrir la ventana de mensajes
